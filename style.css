@@ -1,0 +1,39 @@
+
+#ma{
+    color:grey;
+}
+#ge{
+    color:yellow;
+}
+#butt{
+    border-style: outset;
+    border-width: 5px;
+    border-color:white;
+}
+body{background-image:url(download.jpg);
+    font-family: sans-serif;
+   /* background-size: cover;*/
+}  
+.color{
+    color: limegreen;
+    background: none;   
+}
+::placeholder{
+    color:cyan;
+}
+textarea{
+    font-size:xx-large;
+}
+.shadow{
+    text-shadow: 3px 3px 2px blue;
+
+}
+.blur{
+    text-shadow: 5px 5px 3px yellow;
+}
+#bac{
+    background: none;
+    border-style: outset;
+}
+   
+
